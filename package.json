@@ -1,0 +1,31 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "WebRTC와 WebSocket을 이용한 Zoom 클론코딩",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanprehensible/zoom-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanprehensible/zoom-clone/issues"
+  },
+  "homepage": "https://github.com/seanprehensible/zoom-clone#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "pug": "^3.0.2"
+  }
+}
