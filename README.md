@@ -2,6 +2,8 @@
 
 WebRTC와 WebSocket을 이용한 Zoom 클론코딩
 
+[WebSocket 프로토콜](Note/websocket.md)
+
 ## Project Setup
 
 ```bash
